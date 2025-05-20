@@ -1,5 +1,5 @@
 # Import required modules
-from langchain_groq import ChatGroq
+from langchain.llms import ChatGroq
 from langchain_community.vectorstores import FAISS
 from langchain_community.document_loaders import CSVLoader
 from langchain.prompts import PromptTemplate
