@@ -1,7 +1,7 @@
 langchain==0.0.284
-langchain-community
-langchain-groq
-fastembed
+langchain-community==0.0.26
+langchain-groq==0.0.2
+fastembed==0.1.2
 faiss-cpu==1.7.4
 python-dotenv==1.0.0
 streamlit==1.22.0
