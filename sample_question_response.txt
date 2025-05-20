@@ -1,0 +1,11 @@
+1.I have a doubt regarding Vlookup() giving zero values in Exercise-3
+response:check this demo video to fix the issue: https://drive.google.com/file/d/1gp0krl2wMN0YhZYja3IKmt59SBsUK7xB/view?usp=share_link
+
+2.Do you have internship and also do you offer EMI payments?
+response: Yes, we provide virtual internship. However, we do not have an EMI option.
+
+3.How can I contact the instructors for any doubts/support?
+response: We have created every lecture with a motive to explain everything in an easy-to-understand manner. While working on these lectures you could make mistakes in steps or have some doubts. You need to commit yourself to hold patience, make efforts & diagnose the errors yourself by googling in order to become truly job ready. For any questions, that Google cannot answer or if you hit a wall - we got you covered! You can join our active discord community. which is a dedicated platform to discuss & clear your doubts with fellow learners & mentors.
+
+4.Do you have javascript course?
+response: I don't know.
